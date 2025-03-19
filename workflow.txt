@@ -1,1 +1,2 @@
 Este es un archivo de prueba para el flujo de trabajo básico en GIT
+Agregando una segunda línea para probar GIT
